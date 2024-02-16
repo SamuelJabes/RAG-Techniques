@@ -7,3 +7,4 @@ scikit-learn
 matplotlib
 pandas
 numpy 
+llama-index==0.10.4
